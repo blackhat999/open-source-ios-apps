@@ -253,9 +253,6 @@ Jump to
 - iContactU: Reminds you to contact people you ought to 🔶
   - https://github.com/rizal72/iContactU
   - https://itunes.apple.com/app/icontactu/id920200100
-- iGrades: Track your class grades
-  - https://github.com/maurovc/iGrades
-  - https://itunes.apple.com/app/id816987574
 - MasterPassword: Stateless password management solution
   - https://github.com/Lyndir/MasterPassword
   - https://itunes.apple.com/app/id510296984
